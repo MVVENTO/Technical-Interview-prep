@@ -85,6 +85,71 @@ s.replace("hello", "hi")  # "hi"
 s.split()  # ['hello']
 
 
+
+#Slicing: Extract a substring.
+substr = s[1:4]  # "ell"
+
+
+# Length: Get the length of the string.
+len(s)  # 5
+
+
+#String Methods:
+
+# Upper/Lower Case:
+s.upper()  # "HELLO"
+s.lower()  # "hello"
+
+
+# Strip Whitespace:
+s.strip()  # Removes leading/trailing whitespace
+
+
+# Replace
+s.replace("hello", "hi")  # "hi"
+
+
+# Split:
+s.split()  # ['hello']
+
+#string indexing
+
+s = "Hello World"
+
+# Indexing
+# show first element 
+s[0]
+
+s[1]
+
+s[2]
+
+# slicing
+# Grab everything past the first term all the way to the Length of s which is len(s) 
+s[1:]
+
+# grab everything UP TO the 3rd index
+s[:3]
+
+# Everything
+s[:]
+
+# Last letter 
+s[-1]
+
+# grab everything but the last letter
+s[:-1]
+
+# Grab everything, but go in steps size of 1
+s[::1]
+
+# Grab everything but go in step sizes of 2
+s[::2]
+
+# we can use this to print a string backwards
+s[::-1]
+
+
 # 3. Common Problems
 
 # Reverse a String:
