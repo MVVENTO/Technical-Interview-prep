@@ -1,0 +1,109 @@
+To excel in a Google technical interview, you’ll need to master a variety of LeetCode problems that cover fundamental data structures and algorithms. Here’s a curated list of LeetCode problems that are commonly asked in interviews and will help you prepare:
+
+1. Arrays
+Two Sum
+
+Description: Find two numbers in an array that add up to a specific target.
+Skills: Hashing, two-pointer technique.
+3Sum
+
+Description: Find all unique triplets in an array that sum up to zero.
+Skills: Sorting, two-pointer technique.
+Container With Most Water
+
+Description: Find the container with the most water that can be formed by vertical lines.
+Skills: Two-pointer technique.
+Product of Array Except Self
+
+Description: Calculate the product of all elements except the current one for each element in the array.
+Skills: Prefix and suffix products.
+2. Strings
+Longest Substring Without Repeating Characters
+
+Description: Find the length of the longest substring without repeating characters.
+Skills: Sliding window technique.
+Add Binary
+
+Description: Add two binary strings and return the result.
+Skills: String manipulation.
+Valid Anagram
+
+Description: Check if two strings are anagrams of each other.
+Skills: Hashing, sorting.
+String to Integer (atoi)
+
+Description: Convert a string to an integer, implementing the atoi function.
+Skills: String parsing.
+3. Linked Lists
+Reverse Linked List
+
+Description: Reverse a singly linked list.
+Skills: Linked list traversal and modification.
+Merge Two Sorted Lists
+
+Description: Merge two sorted linked lists into one sorted list.
+Skills: Merging lists.
+Add Two Numbers
+
+Description: Add two numbers represented by linked lists.
+Skills: Carry-over addition.
+Linked List Cycle
+
+Description: Determine if a linked list has a cycle.
+Skills: Cycle detection (Floyd’s Tortoise and Hare).
+4. Trees and Graphs
+Binary Tree Inorder Traversal
+
+Description: Perform an inorder traversal of a binary tree.
+Skills: Tree traversal.
+Lowest Common Ancestor of a Binary Search Tree
+
+Description: Find the lowest common ancestor of two nodes in a binary search tree.
+Skills: Tree traversal, properties of BST.
+Course Schedule
+
+Description: Determine if you can finish all courses given prerequisites (topological sort).
+Skills: Graph traversal (BFS, DFS), topological sorting.
+Number of Islands
+
+Description: Count the number of islands in a 2D grid.
+Skills: Depth-First Search (DFS) or Breadth-First Search (BFS).
+5. Dynamic Programming
+Climbing Stairs
+
+Description: Determine the number of ways to climb a staircase with n steps.
+Skills: Dynamic programming, Fibonacci sequence.
+Longest Increasing Subsequence
+
+Description: Find the length of the longest increasing subsequence in an array.
+Skills: Dynamic programming, binary search.
+Knapsack Problem
+
+Description: Solve the 0/1 knapsack problem (maximum value for a given weight).
+Skills: Dynamic programming.
+Edit Distance
+
+Description: Find the minimum number of operations required to convert one string into another.
+Skills: Dynamic programming.
+6. Sorting and Searching
+Merge Intervals
+
+Description: Merge overlapping intervals.
+Skills: Sorting, interval management.
+Search in Rotated Sorted Array
+
+Description: Search for a target value in a rotated sorted array.
+Skills: Binary search.
+Find First and Last Position of Element in Sorted Array
+
+Description: Find the starting and ending position of a target value in a sorted array.
+Skills: Binary search.
+Kth Largest Element in an Array
+
+Description: Find the Kth largest element in an array.
+Skills: Sorting, heap.
+Preparation Tips:
+Understand the Basics: Make sure you understand the fundamental concepts and can explain them clearly.
+Practice Coding: Write code by hand or on paper to simulate the interview environment.
+Optimize Solutions: Aim for efficient solutions and be prepared to discuss trade-offs.
+Review Solutions: After solving a problem, review and understand the optimal solution.
